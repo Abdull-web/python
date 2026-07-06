@@ -1,5 +1,6 @@
 Fungsi python:
 -print
+*untuk menampilkan teks
 -Ien
 -tipe
 -def
