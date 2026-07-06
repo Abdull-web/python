@@ -1,0 +1,5 @@
+Fungsi python:
+-print
+-Ien
+-tipe
+-def
