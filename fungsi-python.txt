@@ -1,0 +1,8 @@
+Fungsi python:
+-print
+*untuk menampilkan teks
+-Ien
+*untuk menghitung panjang karakter
+-tipe
+*tipe filenya apa
+-def
