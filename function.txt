@@ -1,0 +1,6 @@
+Function yang ada di python:
+-print
+*untuk menampilkan teks
+-typr
+-len
+
