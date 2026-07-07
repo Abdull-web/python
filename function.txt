@@ -1,0 +1,5 @@
+Function yang ada di python:
+-print
+-typr
+-len
+
