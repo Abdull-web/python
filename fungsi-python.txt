@@ -4,4 +4,5 @@ Fungsi python:
 -Ien
 *untuk menghitung panjang karakter
 -tipe
+*tipe filenya apa
 -def
